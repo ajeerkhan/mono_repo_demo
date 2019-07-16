@@ -1,5 +1,5 @@
 {
-  "name": "textbox",
+  "name": "ak-textbox",
   "version": "1.1.0",
   "description": "",
   "author": "ajeerkhan@gmail.com",
@@ -28,5 +28,5 @@
   "bugs": {
     "url": "https://github.com/ajeerkhan/mono_repo_demo/issues"
   },
-  "gitHead": "6cb7cf1d8953bdbdb207efa4c5b8c4f47dcf12cc"
+  "gitHead": "d8e41ef8a5f4d45f1789b3d8266f75c4be22dbd4"
 }
