@@ -1,0 +1,29 @@
+{
+  "name": "mono_repo_demo",
+  "version": "1.0.0",
+  "description": "To demonstrate the feature \"mono repo\", and tools supporting to create mono repo packages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" ",
+    "build": "lerna run prepublish",
+    "publish": "lerna publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajeerkhan/mono_repo_demo.git"
+  },
+  "author": "ajeerkhan@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajeerkhan/mono_repo_demo/issues"
+  },
+  "homepage": "https://github.com/ajeerkhan/mono_repo_demo#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "lerna": "^3.15.0"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

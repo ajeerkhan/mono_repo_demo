@@ -1,0 +1,8 @@
+'use strict';
+
+module.exports = dropdown;
+
+function dropdown() {
+    return `I'm dropdown`;
+}
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3NyYy9pbmRleC5qcyJdLCJuYW1lcyI6WyJtb2R1bGUiLCJleHBvcnRzIiwiZHJvcGRvd24iXSwibWFwcGluZ3MiOiJBQUFBOztBQUVBQSxPQUFPQyxPQUFQLEdBQWlCQyxRQUFqQjs7QUFFQSxTQUFTQSxRQUFULEdBQW9CO0FBQ2hCLFdBQVEsY0FBUjtBQUNIIiwiZmlsZSI6ImluZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiJ3VzZSBzdHJpY3QnO1xuXG5tb2R1bGUuZXhwb3J0cyA9IGRyb3Bkb3duO1xuXG5mdW5jdGlvbiBkcm9wZG93bigpIHtcbiAgICByZXR1cm4gYEknbSBkcm9wZG93bmBcbn1cbiJdfQ==

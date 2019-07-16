@@ -1,0 +1,31 @@
+{
+  "name": "textbox",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "EMIRATES\\S397876 <s397876@emirates.com>",
+  "homepage": "https://github.com/ajeerkhan/mono_repo_demo/tree/master/packages/textbox#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajeerkhan/mono_repo_demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" ",
+    "build": "babel src --out-dir lib --ignore *.spec.js,*.stories.js,__snapshots__ --source-maps inline",
+    "prepublish": "npm run build"
+  },
+  "bugs": {
+    "url": "https://github.com/ajeerkhan/mono_repo_demo/issues"
+  }
+}
