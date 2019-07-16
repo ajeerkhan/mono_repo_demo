@@ -1,8 +1,8 @@
 {
-  "name": "dropdown",
-  "version": "1.0.1",
-  "description": "> TODO: description",
-  "author": "EMIRATES\\S397876 <s397876@emirates.com>",
+  "name": "ajeerkhan@dropdown",
+  "version": "1.0.0",
+  "description": "",
+  "author": "ajeerkhan@gmail.com",
   "homepage": "https://github.com/ajeerkhan/mono_repo_demo/tree/master/packages/dropdown#readme",
   "license": "ISC",
   "main": "lib/index.js",
@@ -27,5 +27,6 @@
   },
   "bugs": {
     "url": "https://github.com/ajeerkhan/mono_repo_demo/issues"
-  }
+  },
+  "gitHead": "6cb7cf1d8953bdbdb207efa4c5b8c4f47dcf12cc"
 }
