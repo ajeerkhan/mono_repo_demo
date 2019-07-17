@@ -1,6 +1,6 @@
 {
-  "name": "ak-textbox",
-  "version": "1.1.1",
+  "name": "@webui-sdk/textbox",
+  "version": "0.0.0",
   "description": "",
   "author": "ajeerkhan@gmail.com",
   "homepage": "https://github.com/ajeerkhan/mono_repo_demo/tree/master/packages/textbox#readme",
@@ -28,5 +28,5 @@
   "bugs": {
     "url": "https://github.com/ajeerkhan/mono_repo_demo/issues"
   },
-  "gitHead": "d8e41ef8a5f4d45f1789b3d8266f75c4be22dbd4"
+  "gitHead": "72c08b4067210059834efcb090fbd82b4ccd17d4"
 }

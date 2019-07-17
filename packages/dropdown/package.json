@@ -1,6 +1,6 @@
 {
-  "name": "ak-dropdown",
-  "version": "1.1.0",
+  "name": "@webui-sdk/dropdown",
+  "version": "0.0.0",
   "description": "",
   "author": "ajeerkhan@gmail.com",
   "homepage": "https://github.com/ajeerkhan/mono_repo_demo/tree/master/packages/dropdown#readme",
@@ -28,5 +28,5 @@
   "bugs": {
     "url": "https://github.com/ajeerkhan/mono_repo_demo/issues"
   },
-  "gitHead": "6cb7cf1d8953bdbdb207efa4c5b8c4f47dcf12cc"
+  "gitHead": "72c08b4067210059834efcb090fbd82b4ccd17d4"
 }
